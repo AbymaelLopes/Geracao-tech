@@ -2,8 +2,22 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
 }
 
 body{
-    color: rgb(186, 243, 224);
+    background: rgb(186, 243, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+main{
+    width: 80vw;
+}
+
+main ul{
+    
 }
